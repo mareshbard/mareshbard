@@ -19,12 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight))](https://github.com/mareshbard/github-readme-stats)
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 
-pragma solidity ^0.8.15;
 
-contract Profile {
-    string public name = "Letícia Gomes";
-    string public pronouns = "She | Her";
-    string public currentFocus = "Java / JavaScript";
 
     string[] internal skills;
 
