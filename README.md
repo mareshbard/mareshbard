@@ -21,19 +21,4 @@ Here are some ideas to get you started:
 
 
 
-    string[] internal skills;
-
-    function getSkills() public returns (string[] memory) {
-        skills = [
-            string("Java"),
-            "Javascript",
-        ];
-
-        return skills;
-    }
-
-    function fun() public view returns (string memory) {
-        return
-            "Two bytes meet.  The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'";
-    }
-}
+    
