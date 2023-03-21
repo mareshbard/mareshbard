@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight)](https://github.com/mareshbard/github-readme-stats)
+![Leticia's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=8&hide_border=true)
+<br />
 
 
 ### STUDYING
