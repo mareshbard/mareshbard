@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### STUDYING
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<!--
+
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK?si=ce929f6efbbf4792)
