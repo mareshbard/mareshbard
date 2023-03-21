@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight)](https://github.com/mareshbard/github-readme-stats)
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 
 
     
