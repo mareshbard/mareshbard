@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 -->
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight)](https://github.com/mareshbard/github-readme-stats)
-![Leticia's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=8&hide_border=true)
-<br />
-
 
 ### STUDYING
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-### Now Playing 🎧
+### NOW PLAYING 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=f60d996868124ce2)
 <br/>
