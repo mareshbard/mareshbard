@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf?si=VJxe5alvSw-XhYuPZcdOlQ&utm_source=copy-link)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=f60d996868124ce2)
 <br/>
 <!--
 
