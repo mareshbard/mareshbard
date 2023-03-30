@@ -18,9 +18,7 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=f60d996868124ce2)
 <br/>
 
-  <h3 align = "center"> <img height = 100 widht = 200 src = "https://images.app.goo.gl/GupzzXaAtB2RWUmX9"/> </h3>
+ 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&redirect=true)
-<!--
-
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=naaix3ms3k8njha33izi4bs09&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
    
