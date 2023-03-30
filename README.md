@@ -19,10 +19,6 @@
 <br/>
 
 
-
-
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=naaix3ms3k8njha33izi4bs09&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/mareshbard/spotify-github-profile)
-
-
-src="https://pin.it/4Rngxcq" width ="25">
 <!--
+
+   
