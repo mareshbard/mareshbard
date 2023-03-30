@@ -18,7 +18,7 @@
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3?si=f60d996868124ce2)
 <br/>
 
-  <h3 align = "center"> <img height = 100 widht = 200 src = "https://pin.it/iV3gCXV"/> </h3>
+  <h3 align = "center"> <img height = 100 widht = 200 src = "https://images.app.goo.gl/GupzzXaAtB2RWUmX9"/> </h3>
 
 <!--
 
