@@ -5,6 +5,8 @@
 
 
 -->
+![image](https://user-images.githubusercontent.com/125154278/230724759-a8214953-1518-49e2-b00d-e27d3b2e692a.png)
+
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight)](https://github.com/mareshbard/github-readme-stats)
 
