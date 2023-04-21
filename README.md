@@ -1,10 +1,5 @@
 ### ✮ Olá/Hello/Hallo 👋
 
-<!--
-**mareshbard/mareshbard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
 ![image](https://user-images.githubusercontent.com/125154278/233708572-361141a8-ae6d-41bd-b5ab-fdf099091a94.png)
 
 ### Bem-vindos ao perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza
