@@ -24,7 +24,7 @@ Nacionalidad: brasileña
 
 #### _✮ LEA ESTO EN [OTROS IDIOMAS](translations/Translations.md):_
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
-<kbd>[<img title="English" alt="English" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/en.svg" width="22">](README.en.md)</kbd>
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/en.svg" width="22">](README.en.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
 <kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](README.de.md)</kbd>
 
