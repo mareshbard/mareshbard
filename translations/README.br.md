@@ -8,7 +8,7 @@
 -->
 ![image](https://user-images.githubusercontent.com/125154278/233708572-361141a8-ae6d-41bd-b5ab-fdf099091a94.png)
 
-### Bem-vindos ao perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza
+ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza...
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&show_icons=true&theme=tokyonight)](https://github.com/mareshbard/github-readme-stats)
