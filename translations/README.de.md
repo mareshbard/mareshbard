@@ -1,9 +1,10 @@
-### Hallo!!!
+### ✮ Hallo!!!
 
 Hier können Sie alles, was Sie über mich wissen möchten, auf Englisch lesen! Um ehrlich zu sein, mache ich das nur, weil ich vielleicht ein paar Punkte in meinem Projekt gewinnen kann!
 Willkommen auf meinem Profil! Hier finden Sie Projekte und Aktivitäten eines IFCE-Studenten...
 
 ✮ ÜBER MICH:
+
 Name: leticia
 
 Alter: 16
