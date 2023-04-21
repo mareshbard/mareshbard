@@ -1,5 +1,5 @@
 ### Hello there! 
-Here, you can read all the things you might wanna know about me in English! I'm just doing this cause maybe I can win some points in my project!
+Here, you can read all the things you might wanna know about me in English! To be honest, I'm just doing this cause maybe I can win some points in my project!
 Welcome to my profile! Here you will find projects and activities of an IFCE student...
 ### STATUS:
 
@@ -12,5 +12,5 @@ Welcome to my profile! Here you will find projects and activities of an IFCE stu
 #### _READ THIS IN [OTHERS LANGUAGES](translations/Translations.md):_
 <kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](mareshbard/README.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
 <kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>
