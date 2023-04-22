@@ -20,7 +20,6 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mareshbard}/count.svg" /></p> 
 <br>
 </div>
-
 #### ✮ FALE COMIGO:
 
 <div align="left">
