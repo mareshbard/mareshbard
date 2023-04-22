@@ -1,5 +1,5 @@
 ### Olá/Hello/Hallo 👋
-### Adiante você encontrará este README em outras línguas!
+### Adiante, você encontrará este README em outras línguas!
 
 <!--
 **mareshbard/mareshbard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
