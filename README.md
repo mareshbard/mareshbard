@@ -1,7 +1,7 @@
 ### ✮ Olá/Hello/Hallo/Hola/Salut 👋
 Adiante, você irá encontrar o README em outros idiomas!
 
-![image](https://user-images.githubusercontent.com/125154278/233708572-361141a8-ae6d-41bd-b5ab-fdf099091a94.png)
+![image](https://user-images.githubusercontent.com/125154278/233803562-7c52dc66-d9d2-459f-bdf5-01bc74ce321e.png)
 
 Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza...
 
@@ -15,7 +15,7 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 
 ### ✮ ESTUDANDO: 
 
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
   <div align="center">
