@@ -5,6 +5,8 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza...
 
+### ✮ STATUS:
+
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
 <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=7&theme=tokyonight"/>
 
