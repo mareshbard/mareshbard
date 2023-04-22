@@ -2,7 +2,7 @@
 Ici, vous pouvez lire toutes les choses que vous voudrez peut-être savoir sur moi en Français! Pour être honnête, je fais juste ça parce que je peux peut-être gagner des points dans mon projet!
 Bienvenue sur mon profil! Vous trouverez ici les projets et activités d’un étudiant de l’IFCE...
 
-✮ À PROPOS DE MOI:
+### ✮ À PROPOS DE MOI:
 
 Nom: leticia
 
