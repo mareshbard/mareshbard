@@ -1,5 +1,5 @@
 ### ✮ Olá/Hello/Hallo/Hola/Salut 👋
-Adiante você irá encontrar o README em outros idiomas!
+Adiante você irá encontrar o README em [OUTROS IDIOMAS]!
 
 ![image](https://user-images.githubusercontent.com/125154278/233708572-361141a8-ae6d-41bd-b5ab-fdf099091a94.png)
 
