@@ -21,6 +21,10 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 
 ### ✮ FALE COMIGO:
 
+<div align="left">
+<a href="https://instagram.com/let_gomesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:leticiapereirag59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 #### _✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
