@@ -2,6 +2,7 @@
 Here, you can read all the things you might wanna know about me in English! To be honest, I'm just doing this cause maybe I can win some points in my project!
 Welcome to my profile! Here you will find projects and activities of an IFCE student...
 
+~~~
 ### ✮ ABOUT ME:
 Name: leticia
 
@@ -14,6 +15,7 @@ Fav book: pride and prejudice
 Fav food: "pão de queijo"
 
 Nacionality: brazilian
+~~~
 
 ### ✮ STATUS:
 
