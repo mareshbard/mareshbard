@@ -8,7 +8,7 @@ Nom: leticia
 
 Âge : 16 ans
 
-Pronoms : elle/elle
+Pronom : elle
 
 Livre préféré : orgueil et préjugés
 
