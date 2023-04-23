@@ -2,6 +2,7 @@
 ¡Aquí puedes leer todas las cosas que quieras saber sobre mí en Español! Para ser honesta, ¡solo estoy haciendo esto porque tal vez pueda ganar algunos puntos en mi proyecto! ¡Bienvenido a mi perfil! Aquí encontrarás proyectos y actividades de un estudiante del IFCE...
 
 ### ✮ SOBRE MÍ:
+~~~
 Nombre: leticia
 
 Edad: 16
@@ -13,6 +14,7 @@ Libro favorito: orgullo y prejuicio
 Comida favorita: "pão de queijo"
 
 Nacionalidad: brasileña
+~~~
 
 ### ✮ STATUS:
 
