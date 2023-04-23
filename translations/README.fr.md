@@ -3,7 +3,7 @@ Ici, vous pouvez lire toutes les choses que vous voudrez peut-être savoir sur m
 Bienvenue sur mon profil! Vous trouverez ici les projets et activités d’un étudiant de l’IFCE...
 
 ### ✮ À PROPOS DE MOI:
-
+~~~
 Nom: leticia
 
 Âge : 16 ans
@@ -15,7 +15,7 @@ Livre préféré : orgueil et préjugés
 Nourriture fav: « pão de queijo »
 
 Nationalité: brésilienne
-
+~~~
 ### ✮ STATUS:
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
