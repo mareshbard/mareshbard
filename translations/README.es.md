@@ -7,7 +7,7 @@ Nombre: leticia
 
 Edad: 16
 
-Pronombres: ella/ella
+Pronombre: ella
 
 Libro favorito: orgullo y prejuicio
 
