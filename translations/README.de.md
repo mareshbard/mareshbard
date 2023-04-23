@@ -4,7 +4,7 @@ Hier können Sie alles, was Sie über mich wissen möchten, auf Deutsch lesen! U
 Willkommen auf meinem Profil! Hier finden Sie Projekte und Aktivitäten eines IFCE-Studenten...
 
 ### ✮ ÜBER MICH:
-
+~~~
 Name: leticia
 
 Alter: 16
@@ -16,7 +16,7 @@ Lieblingsbuch: Stolz und Vorurteil
 Lieblingsessen: "pão de queijo"
 
 Nacionality: brasilianisch
-
+~~~
 ### ✮ STATUS:
 
 ![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
