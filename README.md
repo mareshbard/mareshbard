@@ -1,7 +1,7 @@
 ### ✮ Olá/Hello/Hallo/Hola/Salut 👋
 Adiante, você irá encontrar o README em outros idiomas!
 
-![image](https://user-images.githubusercontent.com/125154278/233803562-7c52dc66-d9d2-459f-bdf5-01bc74ce321e.png)
+(https://github.com/mareshbard/mareshbard/assets/125154278/3dd6cf10-58eb-415e-bcc9-c178b875284c)
 
 Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza...
 
