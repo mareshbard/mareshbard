@@ -32,4 +32,3 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 <kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>      
 
 
-            
