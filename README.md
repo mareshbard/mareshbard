@@ -1,4 +1,4 @@
-### ✮ Olá/Hello/Hallo/Hola/Salut 👋
+## ✮ Olá/Hello/Hallo/Hola/Salut 👋
 Adiante, você irá encontrar o README em outros idiomas!
 
 Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma aluna do IFCE - Fortaleza...
