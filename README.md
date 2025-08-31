@@ -5,13 +5,10 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 
 ### ✮ STATUS:
 
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=compact)
-  </p>
-<img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=7&theme=compact"/>
-  </p>
-  <img src="https://github-profile-trophy.vercel.app/?username=mareshbard&layout=compact=2&no-bg=true&column=3&margin-w=15&margin-h=15&theme=compact" />
-</p>
-
+<div>
+    <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Leticia's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mareshbard&theme=dracula&hide_border=true">
+</div>
 ### ✮ ESTUDANDO: 
 
 <p> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
