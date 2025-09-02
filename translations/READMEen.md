@@ -6,7 +6,7 @@ Welcome to my profile! Here you will find projects and activities of an IFCE stu
 ### ✮ ABOUT ME:
 ~~~
 Name: leticia
-Age: 16
+Age: 18
 Pronouns: she/her
 Fav book: pride and prejudice
 Fav food: "pão de queijo"
