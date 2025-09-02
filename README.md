@@ -27,13 +27,12 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
           
 </p>
 
+<!--
 ### ✮ EM PROGRESSO:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=PDM2-24-1)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/PDM2-24-1))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=PP-II)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/PP-II))            
-          
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=PP-II)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/PP-II))       
+-->
           
 
 ### ✮ FALE COMIGO:
@@ -42,10 +41,10 @@ Bem-vindos ao meu perfil! Aqui você encontrará projetos e atividades de uma al
 <a href="https://instagram.com/let_gomesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:leticiapereirag59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-#### _✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):_
-<kbd>[<img title="Inglês" alt="Inglês" src="https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg)" width="22">](translations/READMEen.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
-<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](translations/README.de.md)</kbd>      
+### ✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):
+<kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="22">](translations/README.de.md)</kbd>      
 
 
