@@ -29,9 +29,8 @@ Nacionality: brazilian
 <a href = "mailto:leticiapereirag59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 #### _✮ READ THIS IN [OTHERS LANGUAGES](translations/Translations.md):_
-<kbd>[<img title="Português" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.br.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
-<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/de.svg" width="22">](README.de.md)</kbd>
-
+<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="22">](translations/READMEen.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
+<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="22">](translations/README.de.md)</kbd>  
   
