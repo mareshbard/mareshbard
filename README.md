@@ -11,8 +11,8 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 <div>
     <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=dracula&count_private=true&hide_border=true">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=dracula" /></a>    
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=dracula" /></a>    
 </div>
 
 ### ✮ ESTUDANDO: 
