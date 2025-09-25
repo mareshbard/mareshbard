@@ -38,7 +38,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 </p>
 
 
-### ✮ EM PROGRESSO:
+### EM PROGRESSO:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=POO_2025.2&theme=dracula&hide_border=true&)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/POO_2025.2))
 
