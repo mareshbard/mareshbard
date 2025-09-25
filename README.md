@@ -2,8 +2,8 @@
 Adiante, você irá encontrar o README em outros idiomas!
 
 ### SOBRE MIM:
-- 🎓 Estudante de **Engenharia da Computação**  
-- 💻  Técnica em  **Informática**  
+- 💻 Estudante de **Engenharia da Computação**  
+- 🎓  Técnica em  **Informática**  
 - 🌱 Sempre explorando **novas linguagens**  
   
 
