@@ -1,13 +1,13 @@
-## ✮ Olá/Hello/Hallo/Hola/Salut 👋
+## Olá/Hello/Hallo/Hola/Salut 👋
 Adiante, você irá encontrar o README em outros idiomas!
 
-### ✮ SOBRE MIM:
+### SOBRE MIM:
 - 🎓 Estudante de **Engenharia da Computação**  
 - 💻  Técnica em  **Informática**  
 - 🌱 Sempre explorando **novas linguagens**  
   
 
-### ✮ STATUS:
+### STATUS:
 
 <div>
     <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=dracula&count_private=true&hide_border=true">
@@ -15,7 +15,7 @@ Adiante, você irá encontrar o README em outros idiomas!
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=dracula" /></a>    
 </div>
 
-### ✮ ESTUDANDO: 
+### ESTUDANDO: 
 
 <p> 
     </a> <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a> 
@@ -27,7 +27,7 @@ Adiante, você irá encontrar o README em outros idiomas!
  </p>
 
 
-### ✮ FERRAMENTAS:      
+### FERRAMENTAS:      
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva Icon" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="40" height="40">
@@ -45,7 +45,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 -->
           
 
-### ✮ FALE COMIGO:
+### FALE COMIGO:
 
 
 <a href="https://instagram.com/let_gomesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
