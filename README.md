@@ -37,12 +37,11 @@ Adiante, você irá encontrar o README em outros idiomas!
           
 </p>
 
-<!--
+
 ### ✮ EM PROGRESSO:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=PDM2-24-1)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/PDM2-24-1))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=PP-II)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/PP-II))       
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=POO_2025.2&theme=dracula&hide_border=true&)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/POO_2025.2))
+
           
 
 ### FALE COMIGO:
