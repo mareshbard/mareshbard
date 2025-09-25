@@ -7,7 +7,7 @@ Willkommen auf meinem Profil! Hier finden Sie Projekte und Aktivitäten eines IF
 ~~~
 Name: leticia
 
-Alter: 16
+Alter: 18
 
 Pronomen: sie/ihr
 
