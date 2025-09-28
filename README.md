@@ -36,6 +36,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 ### FERRAMENTAS:      
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva Icon" width="40" height="40">
+ <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" alt="Canva Icon" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Icon" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 Icon" width="40" height="40"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" alt="CLion Icon" width="40" height="40">
