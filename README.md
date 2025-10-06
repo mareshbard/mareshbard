@@ -10,10 +10,10 @@ Adiante, você irá encontrar o README em outros idiomas!
 ### STATUS:
 
 <div>
-    <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=light&count_private=true&hide_border=true">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=dracula" /></a>    
-  <img alt="Leticia's GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mareshbard&theme=dracula&hide_border=true">  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=light" /></a>    
+  <img alt="Leticia's GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mareshbard&theme=light&hide_border=true">  
 </div>
 
 ### ESTUDANDO: 
@@ -47,7 +47,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 ### EM PROGRESSO:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=POO_2025.2&theme=dracula&hide_border=true&)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/POO_2025.2))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=POO_2025.2&theme=white&hide_border=true&)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/POO_2025.2))
 
           
 
