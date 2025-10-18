@@ -10,10 +10,10 @@ Adiante, você irá encontrar o README em outros idiomas!
 ### STATUS:
 
 <div>
-    <img alt="Leticia's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=light&count_private=true&hide_border=true">
+    <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareshbard&theme=omni"/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=light" /></a>    
-  <img alt="Leticia's GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mareshbard&theme=light&hide_border=true">  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="47%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" /></a>    
+  <img alt="Leticia's GitHub Streak" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mareshbard&theme=omni&hide_border=true">  
 </div>
 
 ### ESTUDANDO: 
@@ -43,13 +43,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/intellij/intellij-original.svg" alt="CLion Icon" width="40" height="40">
           
 </p>
-
-
-### EM PROGRESSO:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mareshbard&repo=POO_2025.2&theme=white&hide_border=true&)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/mareshbard/POO_2025.2))
-
-          
+  
 
 ### FALE COMIGO:
 
