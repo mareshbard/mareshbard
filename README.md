@@ -21,7 +21,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 <p> 
  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,js,html,css,python,c,cpp,java)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,html,css,python,c,cpp,java)](https://skillicons.dev) 
  
  </p>
 
