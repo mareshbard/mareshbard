@@ -38,10 +38,7 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 ### FALE COMIGO:
 [![My contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/let_gomesv)
-[![My contact](https://skillicons.dev/icons?i=gmail)](mailto:leticiapereirag59@gmail.com")
-
-<a href="https://instagram.com/let_gomesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:leticiapereirag59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![My contact](https://skillicons.dev/icons?i=gmail)](mailto:leticiapereirag59@gmail.com)
 
 ### ✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
