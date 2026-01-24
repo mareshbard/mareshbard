@@ -1,17 +1,10 @@
 ### ✮ Hallo!!!
-
-Hier können Sie alles, was Sie über mich wissen möchten, auf Deutsch lesen! Um ehrlich zu sein, mache ich das nur, weil ich vielleicht ein paar Punkte in meinem Projekt gewinnen kann!
-Willkommen auf meinem Profil! Hier finden Sie Projekte und Aktivitäten eines IFCE-Studenten...
-
-### ✮ ÜBER MICH:
 ~~~
 Name: leticia
 
-Alter: 18
+Alter: 19
 
 Pronomen: sie/ihr
-
-Lieblingsbuch: Stolz und Vorurteil
 
 Lieblingsessen: "pão de queijo"
 
