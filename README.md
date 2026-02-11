@@ -11,8 +11,9 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 <div>
     <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareshbard&theme=omni"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=10&theme=omni&hide_border=true&card_width=500"/>
+
+   <img alt="Leticia's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=mareshbard&theme=omni&hide_border=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=10&theme=omni&hide_border=true&card_width=500"/> -->
 
 </div>
 
