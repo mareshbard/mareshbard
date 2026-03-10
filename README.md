@@ -1,4 +1,4 @@
-## Olá/Hello/Hallo/Hola/Salut 👋
+## Olá! 👋
 Adiante, você irá encontrar o README em outros idiomas!
 
 ### SOBRE MIM:
