@@ -17,11 +17,13 @@ Adiante, você irá encontrar o README em outros idiomas!
 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=donut&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### APRENDENDO: 
 
 <p> 
  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,cpp,java)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,cpp,java,vuejs)](https://skillicons.dev) 
  
  </p>
 
