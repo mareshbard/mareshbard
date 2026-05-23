@@ -4,7 +4,9 @@ Adiante, você irá encontrar o README em outros idiomas!
 ### SOBRE MIM:
 - 💻 Estudante de **Engenharia da Computação**  
 - 🎓  Técnica em  **Informática**  
-- 🌱 Sempre explorando **novas linguagens**  
+- 👩🏻‍💻 Dev Frontend no Laboratório de Inovação Tecnológica **(LIT)**
+- 🍎 Jr Learner **(Apple Developer Academy - IFCE)**
+- 🌱 Sempre explorando **novas linguagens**
   
 
 ### STATUS:
@@ -18,7 +20,7 @@ Adiante, você irá encontrar o README em outros idiomas!
     <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" />
   </a>
 
-### APRENDENDO: 
+### LINGUAGENS: 
 
 <p> 
  
