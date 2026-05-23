@@ -13,17 +13,16 @@ Adiante, você irá encontrar o README em outros idiomas!
     <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareshbard&theme=omni"/>
 
    <img alt="Leticia's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=mareshbard&theme=omni&hide_border=true" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=10&theme=omni&hide_border=true&card_width=500"/> -->
-
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=donut&theme=omni&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" />
+  </a>
 
 ### APRENDENDO: 
 
 <p> 
  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,cpp,java,vuejs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,java,vuejs)](https://skillicons.dev) 
  
  </p>
 
