@@ -20,7 +20,7 @@ Adiante, você irá encontrar o README em outros idiomas!
     <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" />
   </a>
 
-### LINGUAGENS: 
+### LINGUAGENS/FRAMEWORKS: 
 
 <p> 
  
@@ -29,21 +29,13 @@ Adiante, você irá encontrar o README em outros idiomas!
  </p>
 
 
-### FERRAMENTAS:      
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,clion,bootstrap,mongodb" />
-  </a>
-</p>
-
   
 
 ### FALE COMIGO:
-[![My contact](https://skillicons.dev/icons?i=instagram)](https://instagram.com/let_gomesv)
+[![My contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leticia-vitória-gomes-314539189/)
 [![My contact](https://skillicons.dev/icons?i=gmail)](mailto:leticiapereirag59@gmail.com)
 
-### ✮ LEIA EM [OUTROS IDIOMAS](translations/Translations.md):
+### LEIA EM OUTROS IDIOMAS:
 <kbd>[<img title="Inglês" alt="Inglês" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/us.svg" width="22">](translations/READMEen.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
