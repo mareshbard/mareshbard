@@ -1,36 +1,35 @@
-### ✮ Hello there! 
-Here, you can read all the things you might wanna know about me in English! To be honest, I'm just doing this cause maybe I can win some points in my project!
-Welcome to my profile! Here you will find projects and activities of an IFCE student...
+# Hello there! 
+Here, you can read all the things you might wanna know about me in English! 
+
+### ABOUT ME:
+- 💻 Computer Engineering Student
+- 🎓 Technical Degree in Information Technology
+- 👩🏻‍💻 Frontend Developer
+- 🍎 Jr Learner (@Apple Developer Academy - IFCE)
+- 🌱 Always exploring new languages
+
+### STATUS:
+<div>
+    <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mareshbard&theme=omni"/>
+
+   <img alt="Leticia's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=mareshbard&theme=omni&hide_border=true" />
+</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" />
+  </a>
+  
+### STUDYING:
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,java,vuejs)](https://skillicons.dev) 
 
 
-### ✮ ABOUT ME:
-~~~
-Name: leticia
-Age: 18
-Pronouns: she/her
-Fav book: pride and prejudice
-Fav food: "pão de queijo"
-Nacionality: brazilian
-~~~
+### CONTACT ME:
 
-### ✮ STATUS:
-
-![Leticia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mareshbard&show_icons=true&theme=tokyonight)
-<img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareshbard&layout=compact&langs_count=7&theme=tokyonight"/>
-
-### ✮ STUDYING:
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![My contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/leticia-vitória-gomes-314539189/)
 
 
-### ✮ CONTACT ME:
-
-<div align="left">
-<a href="https://instagram.com/let_gomesv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:leticiapereirag59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-#### _✮ READ THIS IN [OTHERS LANGUAGES](translations/Translations.md):_
-<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="22">](translations/READMEen.md)</kbd>
-<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](translations/README.es.md)</kbd>
-<kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](translations/README.fr.md)</kbd>
-<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="22">](translations/README.de.md)</kbd>  
+### READ THIS IN OTHER LANGUAGES:
+<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/br.svg" width="22">](https://github.com/mareshbard/mareshbard/tree/main)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/es.svg" width="22">](./README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/fr.svg" width="22">](./README.fr.md)</kbd>
+<kbd>[<img title="Alemão" alt="Alemão" src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@master/svg/de.svg" width="22">](./README.de.md)</kbd> 
   
