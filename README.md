@@ -17,14 +17,14 @@ Adiante, você irá encontrar o README em outros idiomas!
    <img alt="Leticia's GitHub Streak" height="160px" src="https://streak-stats.demolab.com/?user=mareshbard&theme=omni&hide_border=true" />
 </div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&hide_border=true&theme=omni" />
+    <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=mareshbard&layout=compact&langs_count=6&hide_border=true&theme=omni" />
   </a>
 
-### LINGUAGENS/FRAMEWORKS: 
+### ESTUDANDO: 
 
 <p> 
  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,swift,js,html,css,python,c,java,vuejs)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nestjs,typescript,swift,js,html,css,python,c,java,godot)](https://skillicons.dev) 
  
  </p>
 
